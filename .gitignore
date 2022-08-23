@@ -1,0 +1,6 @@
+# Project exclude paths
+/.idea
+/target
+dependency-reduced-pom.xml
+buildNumber.properties
+EarthMC-DataTool.iml
